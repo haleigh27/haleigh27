@@ -34,8 +34,11 @@ I am currently a Software Development student at CodeSpace Academy!
 
 ## Recent Projects
 
-<a href="https://github.com/haleigh27/HALVAL360_FTO2401_GroupA2_HaleighValentine_SDF11">Cache Bank Landing Page (SDF11)</a>
+<a href="https://github.com/haleigh27/HALVAL360_FTO2401_GroupA2_HaleighValentine_SDF11">Cache Bank Landing Page (SDF11)</a><br>
+<a href="https://github.com/haleigh27/HALVAL360_FTO2401_GroupA2_HaleighValentine_SDF11"><img width="200" alt="Cache Bank landing page screenshot" src="https://github.com/haleigh27/haleigh27/assets/114694600/ff40e700-3a87-45fc-a768-21a82521bf9e"></a>
 
+<a href="https://haleigh-valentine.netlify.app/" >Shopping List App (Built with Scimba)</a><br>
+<a href="https://haleigh-valentine.netlify.app/" ><img width="200" alt="Netlify-shopping-app-screenshot" src="https://github.com/haleigh27/haleigh27/assets/114694600/33ff54a0-c5ff-446b-a294-a3737fb7e061"></a>
 
 
 

@@ -7,7 +7,7 @@ Software Development Student
 I am currently a Software Development student at CodeSpace Academy!
 
 * 🌍  I'm based in South Africa.
-* ✉️  You can contact me at [haleighvale@gmail.com](mailto:haleighvale@gmail.com)
+* ✉️  You can contact me at [haleighvalentine@gmail.com](mailto:haleighvale@gmail.com)
 * 🧠  I'm currently learning front-end web development.
 * 🤝  I'm open to collaborating on front-end development projects.
 * ⚡  I aspire to be a skilled and well rounded software developer.
